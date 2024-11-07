@@ -100,7 +100,7 @@ function Cart({ cart , updateCart}) {
         
       ))}
       <button class="border-2 bg-red-400 px-4 py-2 ml-44 mt-4" onClick={Update}>Update Cart</button>
-      <div class="grid-container flex justify-evenly border-2 bg-gray-100 justify-center mx-44 py-2 mt-4">
+      <div class="grid-container flex justify-evenly border-2 bg-gray-100  mx-44 py-2 mt-4">
         Cart Total
         {/* <div class="grid-item">${countTotal()}</div> */}
         
